@@ -84,4 +84,4 @@ The two converted audio files are the output of the following:
 
 
 
-[1] - J. Lorenzo-Trueba et al., “The voice conversion challenge 2018: Promoting development of parallel and nonparallel methods,” Submitted to Odyssey, 2018.
+[1] J. Lorenzo-Trueba et al., “The voice conversion challenge 2018: Promoting development of parallel and nonparallel methods,” Submitted to Odyssey, 2018.
