@@ -233,5 +233,5 @@ The two converted audio files are the output of the following:
 
 
 
-[1] J. Lorenzo-Trueba et al., “The voice conversion challenge 2018: Promoting development of parallel and nonparallel methods,” Submitted to Odyssey, 2018.[br/]
+[1] J. Lorenzo-Trueba et al., “The voice conversion challenge 2018: Promoting development of parallel and nonparallel methods,” Submitted to Odyssey, 2018.<br/>
 [2] Keith Ito, “The LJ speech dataset,” 2017. [Online]. Available: https://keithito.com/LJ-Speech-Dataset/.
