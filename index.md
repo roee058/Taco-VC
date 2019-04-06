@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Taco-VC: A Single Speaker Tacotron based Voice Conversion with Limited Data ##
 
-You can use the [editor on GitHub](https://github.com/roee058/Taco-VC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Taco-VC is a four stages architecture for high quality, non-parallel, many-to-one voice conversion
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Taco-VC - Voice Conversion
+# Voice Conversion
+The purpose of voice conversion (VC) is to convert the speech of a source speaker into a given desired target speaker. A successful conversion will preserve the linguistic and phonetic characteristics of the source audio while keeping naturalness and similarity to the target speaker.
 
 ### Markdown
 
