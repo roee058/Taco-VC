@@ -86,6 +86,150 @@ The two converted audio files are the output of the following:
   </tr>
 </table>
 
+##### Target - Male VCC2TM1 , Source - Female VCC2SF3
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M1/30004_F3.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M1/30004_M1.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M1/30004_F3_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M1/30004_F3_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM1 , Source - Female VCC2SF4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M1/30016_F4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M1/30016_M1.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M1/30016_F4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M1/30016_F4_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM1 , Source - Male VCC2SM3
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M1/30035_M3.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M1/30035_M1.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M1/30035_M3_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M1/30035_M3_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM1 , Source - Male VCC2SM4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M1/30010_M4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M1/30010_M1.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M1/30010_M4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M1/30010_M4_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Female VCC2TF2 , Source - Female VCC2SF3
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/F2/30011_F3.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/F2/30011_F2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/F2/30011_F3_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F2/30011_F3_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Female VCC2TF2 , Source - Female VCC2SF4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/F2/30029_F4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/F2/30029_F2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/F2/30029_F4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F2/30029_F4_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Female VCC2TF2 , Source - Male VCC2SM3
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/F2/30010_M3.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/F2/30010_F2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/F2/30010_M3_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F2/30010_M3_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Female VCC2TF2 , Source - Male VCC2SM4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/F2/30018_M4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/F2/30018_F2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/F2/30018_M4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F2/30018_M4_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM2 , Source - Female VCC2SF3
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M2/30008_F3.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M2/30008_M2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M2/30008_F3_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M2/30008_F3_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM2 , Source - Female VCC2SF4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M2/30018_F4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M2/30018_M2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M2/30018_F4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M2/30018_F4_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM2 , Source - Male VCC2SM3
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M2/30004_M3.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M2/30004_M2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M2/30004_M3_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M2/30004_M3_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM2 , Source - Male VCC2SM4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/M2/30002_M4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/M2/30002_M2.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/M2/30002_M4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/M2/30002_M4_syn.wav"></audio></td>
+  </tr>
+</table>
+
 
 
 
