@@ -1,4 +1,8 @@
 ## Taco-VC: A Single Speaker Tacotron based Voice Conversion with Limited Data ##
+### Roee Levy Leshem , Raja Giryes ###
+### roeelev1@mail.tau.ac.il, raja@tauex.tau.ac.il ###
+### School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel ###
+
 In this page you will find a short description of the Taco-VC system and converted audio samples.<br/>
 The paper can be found here - Soon...
 
