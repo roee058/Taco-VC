@@ -32,4 +32,11 @@ We use the same acoustic features (80-band MSPECs) in our different networks.
   <td><audio controls><source src="samples/F1/30005_F1.wav"></audio></td>
   </tr>
 
+
 </table>
+
+  
+  <audio id="player" controls autoplay>
+  <source src="http://xseignard.github.com/webGLWebAudioAPI/sound/OGLikeCapone.ogg" type="audio/ogg">
+  Your browser does not support the audio tag.
+  </audio>
