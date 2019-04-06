@@ -1,6 +1,6 @@
 ## Taco-VC: A Single Speaker Tacotron based Voice Conversion with Limited Data ##
 In this page you will find a short description of the Taco-VC system and converted audio samples.<br/>
-The paper can be found here - TODO
+The paper can be found here - Soon...
 
 #### Voice Conversion
 The purpose of voice conversion (VC) is to convert the speech of a source speaker into a given desired target speaker.<br/>
