@@ -16,6 +16,8 @@ Finally, a Wavenet vocoder is used to generate the target audio from the SE-SMPS
 We use the same acoustic features (80-band MSPECs) in our different networks. 
 
 #### Audio Samples
+
+##### Target - Female F1
 <audio controls="controls">
-<source type="audio/wav" src="samples/lj/target.wav"></source>
+<source type="audio/wav" src="samples/F1/30005_F1.wav"></source>
 </audio>
