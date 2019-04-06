@@ -1,7 +1,5 @@
 ## Taco-VC: A Single Speaker Tacotron based Voice Conversion with Limited Data ##
-
-In this page you will find a short description of the Taco-VC system.<br/>
-Taco-VC is a four stages architecture for high quality, non-parallel, many-to-one voice conversion.<br/>
+In this page you will find a short description of the Taco-VC system and converted audio samples.<br/>
 The paper can be found here - TODO
 
 #### Voice Conversion
@@ -9,11 +7,13 @@ The purpose of voice conversion (VC) is to convert the speech of a source speake
 A successful conversion will preserve the linguistic and phonetic characteristics of the source audio while keeping naturalness and similarity to the target speaker.
 
 #### Taco-VC Architecture
+Taco-VC is a four stages architecture for high quality, non-parallel, many-to-one voice conversion.<br/>
 Phonetic Posteriorgrams (PPG) are being extracted from a phoneme recognition (PR) model to preserve the prosody of the source speech<br/> 
 Using a chopped Tacotron (C-Taco), we synthesize the target Mel-Spectrograms (MSPEC) directly from the PPGs.<br/>
 The synthesized MSPECs (SMSPEC) are passed through a speech enhancement network (Taco-SE), which outputs the speech enhanced SMSPECs (SE-SMSPEC).<br/>
 Finally, a Wavenet vocoder is used to generate the target audio from the SE-SMPSECs.<br/>
 We use the same acoustic features (80-band MSPECs) in our different networks.<br/>
+The Tacotron and Wavenet are single speakers models which are trained first on the LJ Speech dataset [2], and then fine tuned to new targets with limited training data.
 
 #### Conversion Process
 <img src="images/eval_vc.png">
@@ -234,3 +234,4 @@ The two converted audio files are the output of the following:
 
 
 [1] J. Lorenzo-Trueba et al., “The voice conversion challenge 2018: Promoting development of parallel and nonparallel methods,” Submitted to Odyssey, 2018.
+[2] Keith Ito, “The LJ speech dataset,” 2017. [Online]. Available: https://keithito.com/LJ-Speech-Dataset/.
