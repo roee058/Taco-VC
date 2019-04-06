@@ -1,9 +1,8 @@
 ## Taco-VC: A Single Speaker Tacotron based Voice Conversion with Limited Data ##
 
-In this page you will find a short description of the Taco-VC system.
+In this page you will find a short description of the Taco-VC system.<br/>
+Taco-VC is a four stages architecture for high quality, non-parallel, many-to-one voice conversion.<br/>
 The paper can be found here - TODO
-
-Taco-VC is a four stages architecture for high quality, non-parallel, many-to-one voice conversion
 
 #### Voice Conversion
 The purpose of voice conversion (VC) is to convert the speech of a source speaker into a given desired target speaker.<br/>
@@ -15,6 +14,12 @@ Using a chopped Tacotron (C-Taco), we synthesize the target Mel-Spectrograms (MS
 The synthesized MSPECs (SMSPEC) are passed through a speech enhancement network (Taco-SE), which outputs the speech enhanced SMSPECs (SE-SMSPEC).<br/>
 Finally, a Wavenet vocoder is used to generate the target audio from the SE-SMPSECs.<br/>
 We use the same acoustic features (80-band MSPECs) in our different networks.<br/>
+
+#### Conversion Process
+<img src="images/eval_vc.png">
+
+#### Training Process
+<img src="images/train_vc.png">
 
 #### Audio Samples
 
