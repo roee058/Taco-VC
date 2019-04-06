@@ -21,3 +21,15 @@ We use the same acoustic features (80-band MSPECs) in our different networks.
 <audio controls="controls">
 <source type="audio/wav" src="samples/F1/30005_F1.wav"></source>
 </audio>
+
+<table>
+  <tr><td><b>Source</b></td><td><b>Target</b></td><td><b>Taco-VC</b></td><td><b>Taco-VC-NoSe</b></td></tr>
+  
+  <tr>
+  <td><audio controls><source src="samples/F1/30005_F1.wav"></audio></td>
+  <td><audio controls><source src="samples/F1/30005_F1.wav"></audio></td>
+  <td><audio controls><source src="samples/F1/30005_F1.wav"></audio></td>
+  <td><audio controls><source src="samples/F1/30005_F1.wav"></audio></td>
+  </tr>
+
+</table>
