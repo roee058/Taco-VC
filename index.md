@@ -45,6 +45,42 @@ The two converted audio files are the output of the following:
   </tr>
 </table>
 
+##### Target - Female VCC2TF1 , Source - Female VCC2SF4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/F1/30032_F4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/F1/30032_F1.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/F1/30032_F4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F1/30032_F4_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Female VCC2TF1 , Source - Male VCC2SM3
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/F1/30012_M3.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/F1/30012_F1.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/F1/30012_M3_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F1/30012_M3_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Female VCC2TF1 , Source - Male VCC2SM4
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/F1/30020_M4.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/F1/30020_F1.wav"></audio></td>
+  </tr>
+  <tr>
+  <td><b>Taco-VC</b><br/><audio controls><source src="samples/F1/30020_M4_vc.wav"></audio></td>
+  <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F1/30020_M4_syn.wav"></audio></td>
+  </tr>
+</table>
+
 
 
 
