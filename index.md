@@ -13,7 +13,7 @@ Using a chopped Tacotron (C-Taco), we synthesize the target Mel-Spectrograms (MS
 The synthesized MSPECs (SMSPEC) are passed through a speech enhancement network (Taco-SE), which outputs the speech enhanced SMSPECs (SE-SMSPEC).<br/>
 Finally, a Wavenet vocoder is used to generate the target audio from the SE-SMPSECs.<br/>
 We use the same acoustic features (80-band MSPECs) in our different networks.<br/>
-The Tacotron and Wavenet are single speakers models which are trained first on the LJ Speech dataset [2], and then fine tuned to new targets with limited training data.[br/]
+The Tacotron and Wavenet are single speakers models which are trained first on the LJ Speech dataset [2], and then fine tuned to new targets with limited training data.<br/>
 
 #### Conversion Process
 <img src="images/eval_vc.png">
