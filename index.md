@@ -1,10 +1,13 @@
 ## Taco-VC: A Single Speaker Tacotron based Voice Conversion with Limited Data ##
-### Roee Levy Leshem , Raja Giryes ###
-### roeelev1@mail.tau.ac.il, raja@tauex.tau.ac.il ###
-### School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel ###
+
 
 In this page you will find a short description of the Taco-VC system and converted audio samples.<br/>
 The paper can be found here - Soon...
+
+#### Contact Information
+Roee Levy Leshem , Raja Giryes<br/>
+roeelev1@mail.tau.ac.il, raja@tauex.tau.ac.il<br/>
+School of Electrical Engineering, Tel Aviv University, Tel Aviv, Israel <br/>
 
 #### Voice Conversion
 The purpose of voice conversion (VC) is to convert the speech of a source speaker into a given desired target speaker.<br/>
