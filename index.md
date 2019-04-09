@@ -2,7 +2,7 @@
 
 
 In this page you will find a short description of the Taco-VC system and converted audio samples.<br/>
-The paper can be found here - Soon...
+The paper can be found here - https://arxiv.org/abs/1904.03522
 
 #### Contact Information
 Roee Levy Leshem , Raja Giryes<br/>
