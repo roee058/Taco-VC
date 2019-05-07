@@ -238,7 +238,33 @@ The two converted audio files are the output of the following:
 </table>
 
 
+#### LJ Audio Samples
+The following target is the single women speaker for the LJ speech corpus[1].
+The source inputs are taken from Blizzard 2012 corpus [3] which was not seen during training.
+
+ <table>
+  <tr>
+    <td><b>Target</b><br/><audio controls><source src="samples/LJ/target/LJ050-0251.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/LJ/target/LJ050-0257.wav"></audio></td>
+    <td><b>Target</b><br/><audio controls><source src="samples/LJ/target/LJ050-0263.wav"></audio></td>
+  </tr>
+   <tr>
+    <td><b>Source</b><br/><audio controls><source src="samples/LJ/source/chp01_00015.wav"></audio></td>
+    <td><b>Source</b><br/><audio controls><source src="samples/LJ/source/chp02_00058.wav"></audio></td>
+    <td><b>Source</b><br/><audio controls><source src="samples/LJ/source/chp05_00014.wav"></audio></td>
+  </tr>
+  <tr>
+    <td><b>Taco-VC</b><br/><audio controls><source src="samples/LJ/converted/chp01_00015_vc.wav"></audio></td>
+    <td><b>Taco-VC</b><br/><audio controls><source src="samples/LJ/converted/chp02_00058_vc.wav"></audio></td>
+    <td><b>Taco-VC</b><br/><audio controls><source src="samples/LJ/converted/chp05_00014_vc.wav"></audio></td>
+  </tr>
+</table>
+
+
+
+
 
 
 [1] J. Lorenzo-Trueba et al., “The voice conversion challenge 2018: Promoting development of parallel and nonparallel methods,” Submitted to Odyssey, 2018.<br/>
 [2] Keith Ito, “The LJ speech dataset,” 2017. [Online]. Available: https://keithito.com/LJ-Speech-Dataset/.
+[3] S. King and V. Karaiskos, "The Blizzard Challenge 2012," in Proceedings Blizzard Workshop, 2012. 
