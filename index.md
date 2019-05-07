@@ -239,8 +239,8 @@ The two converted audio files are the output of the following:
 
 
 #### LJ Audio Samples
-The following target is the single women speaker for the LJ speech corpus [1]. <br/>
-The source inputs are taken from Blizzard 2012 corpus [3] which was not seen during training. <br/>
+The following target is a single women speaker from the LJ speech corpus [1]. <br/>
+The source inputs were taken from the Blizzard 2012 corpus [3] which was not seen during training. <br/>
 
  <table>
   <tr>
