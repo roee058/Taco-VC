@@ -239,8 +239,8 @@ The two converted audio files are the output of the following:
 
 
 #### LJ Audio Samples
-The following target is the single women speaker for the LJ speech corpus[1].
-The source inputs are taken from Blizzard 2012 corpus [3] which was not seen during training.
+The following target is the single women speaker for the LJ speech corpus [1]. <br/>
+The source inputs are taken from Blizzard 2012 corpus [3] which was not seen during training. <br/>
 
  <table>
   <tr>
@@ -263,8 +263,8 @@ The source inputs are taken from Blizzard 2012 corpus [3] which was not seen dur
 
 
 
-
-
+ <br/>
+ <br/>
 [1] J. Lorenzo-Trueba et al., “The voice conversion challenge 2018: Promoting development of parallel and nonparallel methods,” Submitted to Odyssey, 2018.<br/>
-[2] Keith Ito, “The LJ speech dataset,” 2017. [Online]. Available: https://keithito.com/LJ-Speech-Dataset/.
-[3] S. King and V. Karaiskos, "The Blizzard Challenge 2012," in Proceedings Blizzard Workshop, 2012. 
+[2] Keith Ito, “The LJ speech dataset,” 2017. [Online]. Available: https://keithito.com/LJ-Speech-Dataset/. <br/>
+[3] S. King and V. Karaiskos, "The Blizzard Challenge 2012," in Proceedings Blizzard Workshop, 2012.  <br/>
