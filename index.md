@@ -48,8 +48,8 @@ The two converted audio files are the output of the following:
 ##### Target - Female VCC2TF1 - train Samples
  <table>
   <tr>
-    <td><b>Source</b><br/><audio controls><source src="train_vc/F1_train1.wav"></audio></td>
-    <td><b>Source</b><br/><audio controls><source src="train_vc/F1_train2.wav"></audio></td>
+    <td><b>Sample 1</b><br/><audio controls><source src="train_vc/F1_train1.wav"></audio></td>
+    <td><b>Sample 2</b><br/><audio controls><source src="train_vc/F1_train2.wav"></audio></td>
   </tr>
 </table>
 
