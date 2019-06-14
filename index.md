@@ -45,6 +45,14 @@ The two converted audio files are the output of the following:
 <ul> Taco-VC      – Our proposed method, including the Taco-SE (speech enhancement) network</ul> 
 <ul>  Taco-VC-NoSe – Our proposed method without the Taco-SE network.</ul> 
 
+##### Target - Female VCC2TF1 - train Samples
+ <table>
+  <tr>
+    <td><b>Source</b><br/><audio controls><source src="train_vc/F1_train1.wav"></audio></td>
+    <td><b>Source</b><br/><audio controls><source src="train_vc/F1_train2.wav"></audio></td>
+  </tr>
+</table>
+
 ##### Target - Female VCC2TF1 , Source - Female VCC2SF3
  <table>
   <tr>
