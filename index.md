@@ -101,6 +101,14 @@ The two converted audio files are the output of the following:
   </tr>
 </table>
 
+##### Target - Male VCC2TM1 - train Samples
+ <table>
+  <tr>
+    <td><b>Sample 1</b><br/><audio controls><source src="samples/train_vc/M1_train1.wav"></audio></td>
+    <td><b>Sample 2</b><br/><audio controls><source src="samples/train_vc/M1_train2.wav"></audio></td>
+  </tr>
+</table>
+
 ##### Target - Male VCC2TM1 , Source - Female VCC2SF3
  <table>
   <tr>
@@ -149,6 +157,14 @@ The two converted audio files are the output of the following:
   </tr>
 </table>
 
+##### Target - Female VCC2TF2 - train Samples
+ <table>
+  <tr>
+    <td><b>Sample 1</b><br/><audio controls><source src="samples/train_vc/F2_train1.wav"></audio></td>
+    <td><b>Sample 2</b><br/><audio controls><source src="samples/train_vc/F2_train2.wav"></audio></td>
+  </tr>
+</table>
+
 ##### Target - Female VCC2TF2 , Source - Female VCC2SF3
  <table>
   <tr>
@@ -194,6 +210,14 @@ The two converted audio files are the output of the following:
   <tr>
   <td><b>Taco-VC</b><br/><audio controls><source src="samples/F2/30018_M4_vc.wav"></audio></td>
   <td><b>Taco-VC-NoSe</b><br/><audio controls><source src="samples/F2/30018_M4_syn.wav"></audio></td>
+  </tr>
+</table>
+
+##### Target - Male VCC2TM2 - train Samples
+ <table>
+  <tr>
+    <td><b>Sample 1</b><br/><audio controls><source src="samples/train_vc/M2_train1.wav"></audio></td>
+    <td><b>Sample 2</b><br/><audio controls><source src="samples/train_vc/M2_train2.wav"></audio></td>
   </tr>
 </table>
 
