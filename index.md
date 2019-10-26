@@ -15,8 +15,9 @@ A successful conversion will preserve the linguistic and phonetic characteristic
 
 #### Taco-VC Architecture
 Taco-VC is a four stages architecture for high quality, non-parallel, many-to-one voice conversion.<br/>
+Its advantage is that it requires for training, a big corpus of only a single speaker.<br/>
 Phonetic Posteriorgrams (PPG) are being extracted from a phoneme recognition (PR) model to preserve the prosody of the source speech<br/> 
-Using a chopped Tacotron (C-Taco), we synthesize the target Mel-Spectrograms (MSPEC) directly from the PPGs.<br/>
+Using a single speaker Tacotron, we synthesize the target Mel-Spectrograms (MSPEC) directly from the PPGs.<br/>
 The synthesized MSPECs (SMSPEC) are passed through a speech enhancement network (Taco-SE), which outputs the speech enhanced SMSPECs (SE-SMSPEC).<br/>
 Finally, a Wavenet vocoder is used to generate the target audio from the SE-SMPSECs.<br/>
 We use the same acoustic features (80-band MSPECs) in our different networks.<br/>
